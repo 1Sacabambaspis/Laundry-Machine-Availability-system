@@ -1,0 +1,39 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# PyQt5 generated UI files (if you convert .ui to .py)
+*.pyc
+*.pyo
+
+# Dataset files (if large)
+*.csv
+
+# Model files
+*.pkl
+*.joblib
+
+# MacOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# VSCode / IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
